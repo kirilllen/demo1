@@ -7,7 +7,7 @@ public class demoprint {
       System.out.println("Здравствуйте,"+req1.GetName());
     
       Captcha cap1=new Captcha();
-      System.out.println(cap1.Validate()); //Выведет угадали мы с числом или нет
+      System.out.println(cap1.Validate());
     //сначала имя - потом капча
       System.out.println("Вот и всё"); //ещё один комментарий
       //вот такой проект
