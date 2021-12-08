@@ -5,6 +5,6 @@ public class demoprint {
 
       UserDataRequest req1=new UserDataRequest();
       System.out.println("Здравствуйте, "+req1.GetName());
-      //просто строка
+      Captcha cap1=new Captcha();
   }
 }
