@@ -8,6 +8,6 @@ public class demoprint {
     
       Captcha cap1=new Captcha();
     //сначала имя - потом капча
-      System.out.println("Вот и всё");
+      System.out.println("Вот и всё"); //ещё один комментарий
   }
 }
